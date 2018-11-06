@@ -1,8 +1,8 @@
        *>**************************************************************
-       *> Aplicación  : A3ECO.
-       *> Programa    : VER791.CBL
-       *> Descripción : Conversión a v7.91.
-       *> Autor       : Jordi March.
+       *> Aplicación  : A3eco
+       *> Programa    : ecofxaam
+       *> Descripción :  
+       *> Autor       :  
        *>**************************************************************
 
        program-id. ECOFXAAM.
